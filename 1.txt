@@ -1,0 +1,2 @@
+<h2>Java Script 수업</h2>
+JavaScript는 HTML을 제어하는 언어입니다.

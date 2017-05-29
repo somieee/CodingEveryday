@@ -1,0 +1,2 @@
+<h2>Java Script 수업</h2>
+  JavaScript수업에 오신 것을 환영합니다.

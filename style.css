@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+<style>
+
+  body.white {
+    background-color: grey;
+    color: black;
+  }
+
+  body.black {
+    background-color: black;
+    color: white;
+  }
+
+  header {
+    border-bottom: 1px solid gray;
+    padding: 20px;
+  }
+
+  nav {
+    border-right: 1px solid gray;
+    padding-right: 10px;
+    width: 200px;
+    height: 600px;
+    float: left;
+  }
+
+  nav ol{
+    list-stype: none;
+    padding: 0;
+  }
+
+
+  article {
+    float: left;
+    padding:20px;
+    width: 500px;
+  }
+
+  h2{
+    color: Grey;
+  }
+
+  #control{
+    padding-top: 5px;
+    float:right;
+  }
+
+  header img{
+    float: right;
+    height: 100px;
+  }
+
+
+</style>
